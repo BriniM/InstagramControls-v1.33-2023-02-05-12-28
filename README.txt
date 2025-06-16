@@ -1,3 +1,5 @@
+## A modded version of the Instagram controls extension, the difference is that this pushes the Reaction bar when viewing a story (the bar that contains the react with send message text, a like, and share button). This moves this bar so that the video control buttons are clickable on mobile.
+
 This tiny and efficient extension adds standard video playback controls to Instagram™ videos. Normally, all you can do with an Instagram™ video is play or pause it, but this extension will expose the native HTML 5 video player which has a seek bar (aka video scrubber), a volume control, a play/pause button, Picture-In-Picture (floating video) button, fullscreen video button, and on *some* videos it will also display a download button!
 
 The extension automatically runs and works on all web pages that embed Instagram™ videos!
